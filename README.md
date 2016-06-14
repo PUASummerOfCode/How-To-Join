@@ -26,7 +26,7 @@ After Step 1, you would have the base.
 After Step 2, you would have the details of each feature (including the base).
 
 3) We need to establish a method of **designing researched features** of a project, here are a few steps:
-  1. Pick a suitable and open design document style (UML for OOP, ERD for Databases, Wireframing for Websites)
+  1. Pick a suitable and open design document style (UML for OOP, ERD for Databases, Wireframing for Websites, fritzing circuits for hardware)
   2. Detail it as much as you can, also make sure to tell everyone else how to edit it (which tool you're using)
   3. Finalizing the design can be done individually or through team effort as comments in issues.
 
@@ -57,3 +57,7 @@ After Step 6, you would have a tested build.
   1. After a few feature updates, the team (or the head/leader/manager/supervisor) could start deciding whether to release or not
   2. Any development code/system should be dropped and the product should be made as compact as possible for the target device(s)/platform(s).
   3. Make a new release.
+
+8) We need to establish methods of **Documentation**, here are few ***ideas***:
+  1. You can use Doxygen (learn it first of course) for code and technical documentation.
+  2. You can use github's wiki section for user documentation and more technical documentation.
