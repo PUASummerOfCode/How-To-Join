@@ -1,7 +1,7 @@
 # How-To-Join
 Methods of organizing our work and documenting it for others to join in.
 
-*tl;dr git, README.md, issues labeled 'suggested feature', tool-based design (dia,fritzing,etc.), make, doxygen (github wiki)*
+*tl;dr I plan to make a few videos on the matter, not sure how long it will take to finish it. git, README.md, issues labeled 'suggested feature', tool-based design (dia,fritzing,etc.), make, doxygen (github wiki)*
 
 0) Learn to use git and github.
   1. Signup on github.
