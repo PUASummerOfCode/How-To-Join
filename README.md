@@ -1,6 +1,8 @@
 # How-To-Join
 Methods of organizing our work and documenting it for others to join in.
 
+*tl;dr git, README.md, issues labeled 'suggested feature', tool-based design (dia,fritzing,etc.), make, doxygen (github wiki)*
+
 0) Learn to use git and github.
   1. Signup on github.
   2. Download git (GUI or CLI, I use CLI).
@@ -35,7 +37,8 @@ After Step 3, you would have a design for your researched feature.
 4) We need to establish a method of **implementing each design**, here are a few steps:
   1. Assign portions/parts of the design to team members through new issues.
   2. Agree on a method of implementation (programming language, coding styles, protocols, speeds etc.) in comments to issues.
-  3. Start implementaion and try as much as you can to unit test before pushing!!
+  3. Use Makefiles.
+  4. Start implementaion and try as much as you can to unit test before pushing!!
 
 After Step 4, you would have a unit-tested implementation of your design.
 
