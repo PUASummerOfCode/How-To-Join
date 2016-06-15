@@ -11,6 +11,8 @@ Methods of organizing our work and documenting it for others to join in.
   5. Pick teams depending on your preferred project(s).
   6. YOU'VE JOINED IN! Now let's do some real work!!
 
+Note: To write github's README.md files check (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
 1) We need to establish a method of **initiating a project**, here are a few steps:
   1. Open a Directory (when applicable) with a proposed name (or a repository).
   2. Provide a README.md file like this with the idea in general.
